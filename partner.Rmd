@@ -1,0 +1,12 @@
+---
+title: "partner.Rmd"
+output: html_document
+---
+
+Name: Carter Wunsch
+
+GitHub username: cjwunsch
+
+In Isaac's most recent commit, he added three files to the repo: SeeAndSpray.webp, hw1.Rmd, and hw1.html. The commit ID is 07b8a48.
+
+I was able to knit Isaac's hw1.Rmd without error.
